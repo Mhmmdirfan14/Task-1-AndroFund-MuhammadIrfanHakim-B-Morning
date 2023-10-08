@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Irfan</string>
+    <string name="aplikasi_irfan">APLIKASI IRFAN</string>
+    <string name="Halaman_Utama" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
